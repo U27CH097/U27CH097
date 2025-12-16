@@ -1,48 +1,38 @@
+<h1 align="center">Welcome to My GitHub Profile 👋</h1>
+
+<h3 align="center">Ajit Singh | Data Science Enthusiast</h3>
 
 
-I am a passionate **Data Science enthusiast** who enjoys working with data to uncover patterns, generate insights, and build intelligent solutions.  
-I have hands-on experience across the complete data science pipeline — from **data collection and cleaning** to **analysis, visualization, and predictive modeling**.
+I am **Ajit Singh**, a B.Tech student from **Sardar Vallabhbhai National Institute of Technology (NIT Surat)**.  
+I am passionate about **Data Science and Analytics**, with a strong interest in extracting insights from data and building intelligent, data-driven solutions.
 
-I enjoy solving real-world business problems using data and continuously improving my skills in analytics, machine learning, and AI-driven technologies.
+I have hands-on experience across data analysis, visualization, statistics, and machine learning, and I continuously work on real-world datasets to strengthen my problem-solving skills.
 
-## 🛠 Skills & Expertise
+---
 
-### 📊 Data Analytics & Visualization
-- **Excel** – Advanced formulas, Pivot Tables, Dashboards
-- **Power BI** – Interactive dashboards, DAX basics, KPIs
+## 📫 Contact Information
 
-### 🐍 Programming & Databases
-- **Python** – Pandas, NumPy, Matplotlib, Seaborn
-- **SQL** – Joins, Subqueries, Window Functions, Analytics Queries
-
-### 📈 Statistics & Mathematics
-- Descriptive & Inferential Statistics  
-- Probability, Hypothesis Testing  
-- Regression Analysis
-
-### 🤖 Machine Learning
-- Supervised & Unsupervised Learning  
-- Linear & Logistic Regression  
-- Decision Trees, Random Forest  
-- Model Evaluation & Feature Engineering
-
-### 🧠 Deep Learning
-- Neural Networks (ANN)  
-- TensorFlow / Keras (Basics)  
-- Model Training & Optimization
-
-### 🗣 Natural Language Processing (NLP)
-- Text Preprocessing  
-- TF-IDF, Bag of Words  
-- Sentiment Analysis  
-- Basic NLP pipelines
-## ⚙️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,tensorflow" />
+📞 <b>Mobile:</b> 7014816113 <br>
+📧 <b>Email:</b> <a href="mailto:ajitsinghcode21@gmail.com">ajitsinghcode21@gmail.com</a>
 </p>
 
-<p>
+---
+
+## 🛠 Skills & Tools
+
+### 🔹 Core Skills
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,tensorflow,git,github,vscode" />
+</p>
+
+<p align="left">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat"/>
+<img src="https://img.shields.io/badge/Statistics-4B8BBE?style=flat"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=flat"/>
 </p>
+
 
