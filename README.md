@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile 👋</h1>
 
-<h3 align="center">Ajit Singh | Data Science Enthusiast</h3>
+<h3 align="center">Ajit Singh || Data Science Enthusiast</h3> ||
 
 
 I am **Ajit Singh**, a B.Tech student from **Sardar Vallabhbhai National Institute of Technology (NIT Surat)**.  
@@ -10,7 +10,6 @@ I have hands-on experience across data analysis, visualization, statistics, and 
 
 ---
 
-## 📫 Contact Information
 ## 📫 Contact Information
 
 <table>
@@ -38,8 +37,6 @@ I have hands-on experience across data analysis, visualization, statistics, and 
 
 
 ## 🛠 Skills & Tools
-
-### 🔹 Core Skills
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,tensorflow,git,github,vscode" />
 </p>
