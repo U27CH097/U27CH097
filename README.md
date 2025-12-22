@@ -11,13 +11,31 @@ I have hands-on experience across data analysis, visualization, statistics, and 
 ---
 
 ## 📫 Contact Information
+## 📫 Contact Information
 
-<p align="left">
-📞 <b>Mobile:</b> 7014816113 <br>
-📧 <b>Email:</b> <a href="mailto:ajitsinghcode21@gmail.com">ajitsinghcode21@gmail.com</a>
-</p>
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+📞 **Mobile:** 7014816113  
+📧 **Email:** [ajitsinghcode21@gmail.com](mailto:ajitsinghcode21@gmail.com)  
+🧠 **LeetCode:**  
+<a href="https://leetcode.com/u/Ajit97singh/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" 
+       alt="LeetCode" width="28" style="vertical-align:middle;"/>
+  <b>Ajit97singh</b>
+</a>
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://camo.githubusercontent.com/ec95521bd589b3aeeb4af239295c4818d31caa06c0f0f2b865a5a8bd75c190e6/68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966" 
+     alt="Coding Animation" width="380"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 🛠 Skills & Tools
 
