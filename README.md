@@ -18,12 +18,7 @@ I have hands-on experience across data analysis, visualization, statistics, and 
 
 📞 **Mobile:** 7014816113  
 📧 **Email:** [ajitsinghcode21@gmail.com](mailto:ajitsinghcode21@gmail.com)  
-🧠 **LeetCode:**  
-<a href="https://leetcode.com/u/Ajit97singh/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" 
-       alt="LeetCode" width="28" style="vertical-align:middle;"/>
-  <b>Ajit97singh</b>
-</a>
+
 
 </td>
 <td width="45%" align="center">
@@ -56,16 +51,13 @@ I have hands-on experience across data analysis, visualization, statistics, and 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 
 
